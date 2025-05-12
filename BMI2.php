@@ -39,7 +39,7 @@
     </div>
 
     <div class="flex justify-center mt-6">
-      <a href="BMI1.php" class="bg-red-500 hover:bg-red-600 text-white px-4 py-2 rounded font-semibold">Hitung Lagi</a>
+      <a href="javascript:history.back()" class="bg-red-500 hover:bg-red-600 text-white px-4 py-2 rounded font-semibold">Hitung Lagi</a>
     </div>
   </div>
 
